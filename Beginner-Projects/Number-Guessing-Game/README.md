@@ -26,3 +26,8 @@
 - Run the game:
   ```bash
   python number_guess.py
+
+---
+
+### License
+- This project is licensed under the MIT License.

@@ -28,3 +28,8 @@
 - How to Run:
   ```bash
   python yt_downloader.py
+
+---
+
+### License
+- This project is licensed under the MIT License.

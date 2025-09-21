@@ -23,3 +23,8 @@
 - Run the game:
   ```bash
   python dice_sim.py
+
+---
+
+### License
+- This project is licensed under the MIT License.

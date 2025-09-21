@@ -14,6 +14,11 @@
 
 ---
 
+### License
+- This project is licensed under the MIT License.
+
+---
+
 ### Requirements
 - Python 3.x
 - [Requests](https://pypi.org/project/requests/) library
@@ -21,5 +26,5 @@
 ---
 
 ### Install dependencies:
-```bash
-pip install requests
+  ```bash
+  pip install requests
