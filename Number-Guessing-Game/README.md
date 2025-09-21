@@ -1,4 +1,4 @@
-### Title: Number Guessing Game (with Difficulty Levels & ANSI Stylesheet)
+- ### Title: Number Guessing Game (with Difficulty Levels & ANSI Stylesheet)
 
 ---
 
